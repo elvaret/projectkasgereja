@@ -2,7 +2,7 @@
 
 ![Project Image](dist/img/logogereja.png)
 
-> A financial management system tailored for churches, built using Bootstrap Admin LTE 4 with PHP, HTML, CSS, and MySQL as the database management system (DBMS).
+> A financial management system tailored for churches, built using Bootstrap Admin LTE 4 with PHP, JS, HTML, CSS, and MySQL as the database management system (DBMS).
 
 ---
 
